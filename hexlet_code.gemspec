@@ -5,12 +5,12 @@ require_relative "lib/hexlet_code/version"
 Gem::Specification.new do |spec|
   spec.name = "hexlet_code"
   spec.version = HexletCode::VERSION
-  spec.authors = ["leva"]
+  spec.authors = ["leva84"]
   spec.email = ["denfrut8@gmail.com"]
 
   spec.summary = "Educational project Heklest"
   spec.description = "Here I will learn Ruby on Rails and gradually improve my skills"
-  spec.homepage = "https://github.com/leva84/rails-project-lvl1"
+  spec.homepage = "https://github.com/leva84/rails-project-lvl1/"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
